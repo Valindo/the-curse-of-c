@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/the-curse-of-c/static/css/main.8609bb4a.chunk.css",
-    "main.js": "/the-curse-of-c/static/js/main.e14c9652.chunk.js",
-    "main.js.map": "/the-curse-of-c/static/js/main.e14c9652.chunk.js.map",
+    "main.js": "/the-curse-of-c/static/js/main.e2b29362.chunk.js",
+    "main.js.map": "/the-curse-of-c/static/js/main.e2b29362.chunk.js.map",
     "runtime-main.js": "/the-curse-of-c/static/js/runtime-main.66ccb67b.js",
     "runtime-main.js.map": "/the-curse-of-c/static/js/runtime-main.66ccb67b.js.map",
     "static/js/2.54f075cb.chunk.js": "/the-curse-of-c/static/js/2.54f075cb.chunk.js",
     "static/js/2.54f075cb.chunk.js.map": "/the-curse-of-c/static/js/2.54f075cb.chunk.js.map",
     "index.html": "/the-curse-of-c/index.html",
-    "precache-manifest.d619f96b5e871caf3d65c9c1db8fdae9.js": "/the-curse-of-c/precache-manifest.d619f96b5e871caf3d65c9c1db8fdae9.js",
+    "precache-manifest.ad9a48f4ea6708218c793fca151c938d.js": "/the-curse-of-c/precache-manifest.ad9a48f4ea6708218c793fca151c938d.js",
     "service-worker.js": "/the-curse-of-c/service-worker.js",
     "static/css/main.8609bb4a.chunk.css.map": "/the-curse-of-c/static/css/main.8609bb4a.chunk.css.map",
     "static/js/2.54f075cb.chunk.js.LICENSE.txt": "/the-curse-of-c/static/js/2.54f075cb.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.66ccb67b.js",
     "static/js/2.54f075cb.chunk.js",
     "static/css/main.8609bb4a.chunk.css",
-    "static/js/main.e14c9652.chunk.js"
+    "static/js/main.e2b29362.chunk.js"
   ]
 }
