@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0102b6472da781cbb1d9b6edbc33b206",
+    "revision": "0264763de27d2448998130d39f7d298d",
     "url": "/the-curse-of-c/index.html"
   },
   {
