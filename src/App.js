@@ -8,14 +8,6 @@ pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/$
 
 function Loader() {
   return (
-    <div id="loader" className="px-5 ">
-      <img src={img} className="img-fluid w-100 animate__animated animate__pulse animate__infinite" style={{ maxWidth: 450 }} alt="loader logo" />
-    </div>
-  )
-}
-
-function PageLoader() {
-  return (
     <div className="lds-ripple"><div></div><div></div></div>
   )
 }
@@ -54,9 +46,9 @@ function App() {
         <Document
           file={pdfFile}
           onLoadSuccess={onDocumentLoadSuccess}
-          loading={<PageLoader />}
+          loading={<Loader />}
         >
-          <Page pageNumber={pageNumber} {...dimensions} loading={<PageLoader />} />
+          <Page pageNumber={pageNumber} {...dimensions} loading={<Loader />} />
         </Document>
         {!loading &&
           <div className="d-flex align-items-center justify-content-center american-silver ">
