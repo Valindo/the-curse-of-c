@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "552041fe6ca53b1d9a42c1b03001389c",
+    "revision": "e4a30d6d06f718e47767102436bcbfb8",
     "url": "/the-curse-of-c/index.html"
   },
   {
-    "revision": "a409b65688b991afc6a1",
-    "url": "/the-curse-of-c/static/css/main.8609bb4a.chunk.css"
+    "revision": "7708875209a941a3dcda",
+    "url": "/the-curse-of-c/static/css/main.1ffa87f9.chunk.css"
   },
   {
     "revision": "1e0af9a119361e846a63",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/the-curse-of-c/static/js/2.54f075cb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a409b65688b991afc6a1",
+    "revision": "7708875209a941a3dcda",
     "url": "/the-curse-of-c/static/js/main.e2b29362.chunk.js"
   },
   {

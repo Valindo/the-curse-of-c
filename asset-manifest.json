@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/the-curse-of-c/static/css/main.8609bb4a.chunk.css",
+    "main.css": "/the-curse-of-c/static/css/main.1ffa87f9.chunk.css",
     "main.js": "/the-curse-of-c/static/js/main.e2b29362.chunk.js",
     "main.js.map": "/the-curse-of-c/static/js/main.e2b29362.chunk.js.map",
     "runtime-main.js": "/the-curse-of-c/static/js/runtime-main.66ccb67b.js",
@@ -8,9 +8,9 @@
     "static/js/2.54f075cb.chunk.js": "/the-curse-of-c/static/js/2.54f075cb.chunk.js",
     "static/js/2.54f075cb.chunk.js.map": "/the-curse-of-c/static/js/2.54f075cb.chunk.js.map",
     "index.html": "/the-curse-of-c/index.html",
-    "precache-manifest.ad9a48f4ea6708218c793fca151c938d.js": "/the-curse-of-c/precache-manifest.ad9a48f4ea6708218c793fca151c938d.js",
+    "precache-manifest.549fda6b57085eb04c6efaf0e82b30d0.js": "/the-curse-of-c/precache-manifest.549fda6b57085eb04c6efaf0e82b30d0.js",
     "service-worker.js": "/the-curse-of-c/service-worker.js",
-    "static/css/main.8609bb4a.chunk.css.map": "/the-curse-of-c/static/css/main.8609bb4a.chunk.css.map",
+    "static/css/main.1ffa87f9.chunk.css.map": "/the-curse-of-c/static/css/main.1ffa87f9.chunk.css.map",
     "static/js/2.54f075cb.chunk.js.LICENSE.txt": "/the-curse-of-c/static/js/2.54f075cb.chunk.js.LICENSE.txt",
     "static/media/DS_Logo_Yellow.png": "/the-curse-of-c/static/media/DS_Logo_Yellow.393be798.png",
     "static/media/The_Curse_Of_C-19 .pdf": "/the-curse-of-c/static/media/The_Curse_Of_C-19 .33b9fc01.pdf"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.66ccb67b.js",
     "static/js/2.54f075cb.chunk.js",
-    "static/css/main.8609bb4a.chunk.css",
+    "static/css/main.1ffa87f9.chunk.css",
     "static/js/main.e2b29362.chunk.js"
   ]
 }
