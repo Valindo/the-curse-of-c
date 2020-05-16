@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/the-curse-of-c/precache-manifest.549fda6b57085eb04c6efaf0e82b30d0.js"
+  "/the-curse-of-c/precache-manifest.a442efac1b2eb3c9831a37136415bb66.js"
 );
 
 self.addEventListener('message', (event) => {
