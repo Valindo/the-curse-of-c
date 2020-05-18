@@ -37,7 +37,7 @@ function App() {
     setLoading(false)
   }
   return (
-    <div className="App d-flex flex-column h-100 justify-content-center align-items-center">
+    <div className="App d-flex flex-column justify-content-center align-items-center">
       {!loading &&
         <div className="px-5 mt-4">
           <img src={img} className="img-fluid w-100" style={{ maxWidth: 250 }} alt="logo" />
@@ -62,7 +62,7 @@ function App() {
           </div>}
       </div>
 
-      <div className="d-flex w-100 justify-content-center px-2 footer american-silver">
+      <div className="d-flex w-100 justify-content-center px-2 footer american-silver my-5">
         <a href="http://www.dreamsketchers.com/">Dreamsketchers Media LLP.</a><span className="mx-2">|</span> <p className="m-0">built with <i class="fas fa-heart"></i> by <a href="https://github.com/valindo">Valindo</a></p>
       </div>
     </div>
