@@ -45,6 +45,6 @@
   color: #636e72;
 }
 
-html {
-  background-color: #f8f3eb;
+html, body {
+  background-color: #fff;
 }

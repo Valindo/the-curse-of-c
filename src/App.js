@@ -51,12 +51,12 @@ function App() {
           <Page pageNumber={pageNumber} {...dimensions} loading={<Loader />} />
         </Document>
         {!loading &&
-          <div className="d-flex align-items-center justify-content-center american-silver ">
+          <div className="d-flex align-items-center justify-content-center american-silver mt-1">
             <p className="mx-2" onClick={() => pageNumber > 1 && setPageNumber(pageNumber - 1)}>
               <i className="fas fa-chevron-left"></i>
             </p>
             <p>{pageNumber} of {numPages}</p>
-            <p className="mx-2 " onClick={() => pageNumber < numPages && setPageNumber(pageNumber + 1)}>
+            <p className="mx-2" onClick={() => pageNumber < numPages && setPageNumber(pageNumber + 1)}>
               <i className="fas fa-chevron-right"></i>
             </p>
           </div>}
