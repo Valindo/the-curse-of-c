@@ -63,7 +63,7 @@ function App() {
       </div>
 
       <div className="d-flex w-100 justify-content-center px-2 footer american-silver">
-        <a href="http://www.dreamsketchers.in/">Dreamsketchers Media LLP.</a><span className="mx-2">|</span> <p className="m-0">built with <i class="fas fa-heart"></i> by <a href="https://github.com/valindo">Valindo</a></p>
+        <a href="http://www.dreamsketchers.com/">Dreamsketchers Media LLP.</a><span className="mx-2">|</span> <p className="m-0">built with <i class="fas fa-heart"></i> by <a href="https://github.com/valindo">Valindo</a></p>
       </div>
     </div>
   );
