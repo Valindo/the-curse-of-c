@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b53acdc98f375022c6ff66176f204a60",
+    "revision": "11007a21c97e3b097e707ff79cc53699",
     "url": "/index.html"
   },
   {
-    "revision": "7e44711ac4edc98245e4",
+    "revision": "decb7bc86af68140c9c9",
     "url": "/static/css/main.edd392bb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.54f075cb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7e44711ac4edc98245e4",
-    "url": "/static/js/main.ef788ad7.chunk.js"
+    "revision": "decb7bc86af68140c9c9",
+    "url": "/static/js/main.ba61d965.chunk.js"
   },
   {
     "revision": "79eb56b4df63f41ff484",
@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/DS_Logo_Yellow.393be798.png"
   },
   {
-    "revision": "917b74024c131fbad3c13ef8e300b894",
-    "url": "/static/media/The_Curse_Of_C-19 .917b7402.pdf"
+    "revision": "25505e13f8fd94ad5656c894a4a0fc68",
+    "url": "/static/media/The_Curse_Of_C-19 .25505e13.pdf"
   }
 ]);
