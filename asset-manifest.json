@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.edd392bb.chunk.css",
-    "main.js": "/static/js/main.ba61d965.chunk.js",
-    "main.js.map": "/static/js/main.ba61d965.chunk.js.map",
+    "main.js": "/static/js/main.ddaea60b.chunk.js",
+    "main.js.map": "/static/js/main.ddaea60b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e4e250bc.js",
     "runtime-main.js.map": "/static/js/runtime-main.e4e250bc.js.map",
     "static/js/2.54f075cb.chunk.js": "/static/js/2.54f075cb.chunk.js",
     "static/js/2.54f075cb.chunk.js.map": "/static/js/2.54f075cb.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b3bf27b084617472121d427ed5c7acdf.js": "/precache-manifest.b3bf27b084617472121d427ed5c7acdf.js",
+    "precache-manifest.94e4341451abcb76162a4d9d5d929c76.js": "/precache-manifest.94e4341451abcb76162a4d9d5d929c76.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.edd392bb.chunk.css.map": "/static/css/main.edd392bb.chunk.css.map",
     "static/js/2.54f075cb.chunk.js.LICENSE.txt": "/static/js/2.54f075cb.chunk.js.LICENSE.txt",
     "static/media/DS_Logo_Yellow.png": "/static/media/DS_Logo_Yellow.393be798.png",
-    "static/media/The_Curse_Of_C-19 .pdf": "/static/media/The_Curse_Of_C-19 .25505e13.pdf"
+    "static/media/The_Curse_Of_C-19 .pdf": "/static/media/The_Curse_Of_C-19 .1edb7f3b.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.e4e250bc.js",
     "static/js/2.54f075cb.chunk.js",
     "static/css/main.edd392bb.chunk.css",
-    "static/js/main.ba61d965.chunk.js"
+    "static/js/main.ddaea60b.chunk.js"
   ]
 }
