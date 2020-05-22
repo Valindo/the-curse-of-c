@@ -40,7 +40,7 @@ function App() {
     <div className="App d-flex flex-column justify-content-center align-items-center" >
       {!loading &&
         <div className="px-5 mt-4">
-          <img src={img} className="img-fluid w-100" style={{ maxWidth: 250 }} alt="logo" />
+          <img src={img} className="img-fluid w-100" style={{ maxWidth: 150 }} alt="logo" />
         </div>}
       <div className="flex-grow-1 d-flex flex-column justify-content-center">
         <Document
